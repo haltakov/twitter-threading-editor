@@ -1,3 +1,7 @@
+### ⚠️ This repository is now archived ⚠️
+
+All the code has been move to the [twitter-threading](https://github.com/svpino/twitter-threading) repository.
+
 # Twitter Threading Editor
 
 This is a simple UI written in HTML and JavaScript for the [twitter-threading](https://github.com/svpino/twitter-threading) tool by [@svpino](https://twitter.com/svpino).
